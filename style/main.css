@@ -5,7 +5,28 @@
 
 body {
     background: #fff;
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+}
+
+h1 {
     font-family: 'PT Sans', sans-serif;
+    font-size: 24px;
+    color: #3A644F;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    color: #71BE98;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+    color: #000;
 }
 
 #page {
