@@ -75,6 +75,9 @@ nav a:visited {
     color: #4F9471;
     text-decoration: none;
 } 
+nav li.active a {
+    color: #ccc;
+}
 
 #content {
     margin-top: 75px;
