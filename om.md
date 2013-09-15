@@ -1,16 +1,16 @@
 # Om oss
 
 <div class="media">
-    <img class="media-object pull-left" src="img/placeholder_person.gif" alt="" />
+    <img class="media-object pull-left" src="img/rune.jpg" alt="" />
     <div class="media-body">
-        <h4 class="media-heading">Rune Storetvedt - Styreleder</h4>
+        <h4 class="media-heading">Rune Storetvedt <span>Styreleder</span></h4>
         <p>
             Medlem av Foreningen for Ressursbasert Økonomi, fast gjest og utvikler av Radio Occupy Norway, aktivist for Occupy Wall Street i Bergen. Bakgrunn som gründer av bedriftene Dataport AS (nedlagt) og Gosu AS (nylig skiftet navn til Sixty). Jobber til daglig som sykepleier ved psykiatrisk akuttavdeling for ungdom ved Haukeland Sykehus.
         </p>
     </div>
 </div>
 <div class="media">
-    <img class="media-object pull-left" src="img/placeholder_person.gif" alt="" />
+    <img class="media-object pull-left" src="img/prune.jpg" alt="" />
     <div class="media-body">
         <h4 class="media-heading">Per Rune Hollup - Styremedlem og kasserer</h4>
         <p>
@@ -19,7 +19,7 @@
     </div>
 </div>
 <div class="media">
-    <img class="media-object pull-left" src="img/placeholder_person.gif" alt="" />
+    <img class="media-object pull-left" src="img/adrian.jpg" alt="" />
     <div class="media-body">
         <h4 class="media-heading">Adrian Dvergsdal - Styremedlem</h4>
         <p>
@@ -28,7 +28,7 @@
     </div>
 </div>
 <div class="media">
-    <img class="media-object pull-left" src="img/placeholder_person.gif" alt="" />
+    <img class="media-object pull-left" src="img/johnny.jpg" alt="" />
     <div class="media-body">
         <h4 class="media-heading">Johnny Nordstrøm - Varamedlem</h4>
         <p>
@@ -43,6 +43,7 @@
     #content .media-object {
         border: 1px solid #888;
         margin-right: 30px;
+        border-radius: 5px;
     }
 </style>
 
