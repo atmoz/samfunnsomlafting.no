@@ -93,6 +93,8 @@
 
 <script>
 $(document).ready(function() {
-    $('#aboutCarousel').carousel();
+    $('#aboutCarousel').carousel({
+        interval: 8000
+    });
 });
 </script>
