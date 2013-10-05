@@ -69,3 +69,37 @@ nav a:visited {
 #content {
     margin-top: 75px;
 }
+
+@media only screen and (max-width: 600px) {
+    #content .carousel-control {
+        width: 10%;
+    }
+
+    #content .carousel-caption {
+        top: 0;
+        bottom: 0;
+        left: 10%;
+        right: 10%;
+    }
+    #content .carousel-indicators {
+        display: none;
+    }
+    #content .carousel-caption h3 {
+        font-size: 20px !important;
+    }
+}
+@media only screen and (max-width: 450px) {
+    #content .carousel-control {
+        width: 5%;
+    }
+
+    #content .carousel-caption {
+        font-size: 12px !important;
+        left: 5%;
+        right: 5%;
+    }
+
+    #content .carousel-caption h3 {
+        font-size: 16px !important;
+    }
+}
