@@ -14,7 +14,7 @@
     <div class="media-body">
         <h4 class="media-heading">Per Rune Hollup <span>Styremedlem og kasserer</span></h4>
         <p>
-            Senior elektroingeniør (50+) med spesialitet innen samspillet mellom mennesket og system. Har mer enn 20år med designerfaring fra alle deler av dagens datateknologi samt ledererfaring fra store omstillingsprosjekter i elektronikkindustrien. Siste 10år har hovedfokus vært hvordan vi bygger bedre samfunn for alt og alle ved hjelp av smartere resursforvaltning og kretsløpsøkonomi.
+            Senior elektroingeniør (55+) med spesialitet innen samspillet mellom mennesket og system. Har mer enn 20år med designerfaring fra alle deler av dagens datateknologi samt ledererfaring fra store omstillingsprosjekter i elektronikkindustrien. Siste 10år har hovedfokus vært hvordan vi bygger bedre samfunn for alt og alle ved hjelp av smartere resursforvaltning og kretsløpsøkonomi.
         </p>
     </div>
 </div>
