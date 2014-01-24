@@ -32,7 +32,11 @@
     <div class="media-body">
         <h4 class="media-heading">Johnny Nordstrøm <span>Varamedlem</span></h4>
         <p>
-            Medlem av Foreningen for Ressursbasert Økonomi, organisator for Matgildet mot Hungersnød og aktivt medlem i Fremtiden i Våre Hender. Jobber til daglig på Tine Distribusjon.
+            Varamedlem i Foreningen for samfunnsomlafting. Medlem i Foreningen
+            for Ressursbasert Økonomi, organisator for Matgildet mot Hungersnød
+            og aktivt medlem i Fremtiden i Våre Hender. Jobber til daglig i
+            Tine Distribusjon Bergen, er tillitsvalgt på lager og sekretær i
+            fagforeningen.
         </p>
     </div>
 </div>
