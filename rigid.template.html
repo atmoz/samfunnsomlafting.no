@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width" />
         <title>Foreningen for Samfunnsomlafting - %TITLE%</title>
         <link href="http://fonts.googleapis.com/css?family=PT+Sans|PT+Serif" rel="stylesheet" type="text/css" />
-        <link href="code/main.css" rel="stylesheet" type="text/css" />
-        <link href="code/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-        <script src="code/jquery-1.10.2.min.js"></script>
-        <script src="code/bootstrap/js/bootstrap.min.js"></script>
+        <link href="/code/main.css" rel="stylesheet" type="text/css" />
+        <link href="/code/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <script src="/code/jquery-1.10.2.min.js"></script>
+        <script src="/code/bootstrap/js/bootstrap.min.js"></script>
     </head>
     <body>
         <div class="container">
@@ -18,9 +18,10 @@
 
             <nav>
                 <ul>
-                    <li %IFFILE(index.html class="active")%><a href="index.html">Forsiden</a></li>
-                    <li %IFFILE(om.html class="active")%><a href="om.html">Om oss</a></li>
-                    <li %IFFILE(kontakt.html class="active")%><a href="kontakt.html">Kontakt oss</a></li>
+                    <li %IFFILE(index.html class="active")%><a href="/index.html">Forsiden</a></li>
+                    <li %IFFILE(om.html class="active")%><a href="/om.html">Om oss</a></li>
+                    <li %IFFILE(prosjekter.html class="active")%><a href="/prosjekter">Prosjekter</a></li>
+                    <li %IFFILE(kontakt.html class="active")%><a href="/kontakt.html">Kontakt oss</a></li>
                 </ul>
             </nav>
 
@@ -29,6 +30,7 @@
             </div>
 
             <footer>
+                <br /><br />
             </footer>
         </div>
     </body>

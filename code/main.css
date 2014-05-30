@@ -60,11 +60,16 @@ nav ul li:last-child:after {
     padding-right: 0;
 }
 
-nav a,
-nav a:visited {
+body a,
+body a:visited {
     color: #4F9471;
     text-decoration: none;
-} 
+}
+
+body a:hover {
+    color: #1F573B;
+    text-decoration: none;
+}
 
 #content {
     margin-top: 75px;
@@ -102,4 +107,18 @@ nav a:visited {
     #content .carousel-caption h3 {
         font-size: 16px !important;
     }
+}
+
+#content .media {
+    margin-top: 30px;
+}
+#content .media-object {
+    border: 1px solid #888;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+#content .media-heading span {
+    padding-left: 10px;
+    color: #aaa;
+    font-style: italic;
 }
