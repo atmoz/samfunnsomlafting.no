@@ -7,6 +7,7 @@ $DIR/run-rigid
 
 docker run \
     --name samfunnsomlafting_web \
+    --restart=on-failure:10 \
     -v $target:/usr/share/nginx/html:ro \
     -e VIRTUAL_HOST=samfunnsomlafting.no \
     -d nginx
